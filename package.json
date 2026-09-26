@@ -1,0 +1,19 @@
+{
+    "name": "mmm-pwa",
+    "version": "1.0.0-dev",
+    "description": "MagicMirror² module: install MagicMirror² as a fullscreen app on tablets and phones, and keep the screen awake",
+    "keywords": [
+        "MagicMirror",
+        "PWA",
+        "tablet",
+        "fullscreen",
+        "wake lock"
+    ],
+    "homepage": "https://github.com/magicoli/MMM-ProgressiveWebApp",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/magicoli/MMM-ProgressiveWebApp.git"
+    },
+    "license": "AGPL-3.0-or-later",
+    "author": "Olivier van Helden"
+}
