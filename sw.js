@@ -2,7 +2,7 @@
  * it keeps working across MagicMirror² updates; it only smooths over brief
  * network drops, live module data still comes from the network.
  */
-const CACHE_NAME = "mmm-pwa-v1";
+const CACHE_NAME = "mmm-progressive-web-app-v1";
 
 self.addEventListener("install", () => {
     self.skipWaiting();
