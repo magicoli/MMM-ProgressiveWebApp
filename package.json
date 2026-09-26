@@ -1,6 +1,6 @@
 {
     "name": "mmm-progressive-web-app",
-    "version": "1.0.0-dev",
+    "version": "1.0.0",
     "description": "MagicMirror² module: install MagicMirror² as a fullscreen app on tablets and phones, and keep the screen awake",
     "keywords": [
         "MagicMirror",

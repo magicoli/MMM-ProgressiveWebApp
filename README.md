@@ -1,10 +1,10 @@
 # MMM-ProgressiveWebApp
 
-![Latest Release](https://img.shields.io/github/v/release/magicoli/MMM-ProgressiveWebApp?label=latest&include_prereleases)
-![Stable](https://img.shields.io/github/v/release/magicoli/MMM-ProgressiveWebApp?label=stable&color=green)
+![Stable](https://img.shields.io/github/release/magicoli/MMM-ProgressiveWebApp?label=stable&color=green&include_prereleases)
+![GitHub Tag](https://img.shields.io/github/tag/magicoli/MMM-ProgressiveWebApp?label=latest&include_prereleases)
+![GitHub commits since latest release](https://img.shields.io/github/commits-since/magicoli/MMM-ProgressiveWebApp/latest?label=dev)
 ![Node](https://img.shields.io/badge/node.js-22-blue)
 [![License](https://img.shields.io/badge/license-AGPL--3.0-552b55)](LICENSE)
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/magicoli/MMM-ProgressiveWebApp/latest)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/magicoli/MMM-ProgressiveWebApp/total)
 
 Set your [MagicMirror²](https://magicmirror.builders) as a fullscreen app on a tablet or phone, and keep the screen awake.
